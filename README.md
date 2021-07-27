@@ -10,11 +10,10 @@
 
 ### Description
 Fitness tracker is a web app that lets its user track their workouts. Users can input new workouts as they go through their gym session, and are also able to view past workouts they've done before. Reach those goals!
-![screenshot]()
-![GIF]()
+![screenshot](https://i.imgur.com/xDQuW6C.png)
 
 ### Usage
-To use this app, simply go to the deployed link
+To use this app, simply go to the deployed [link](https://protected-spire-10586.herokuapp.com/)
 
 ### Contribution
 If you would like to contribute to this project my contact information can be found at the bottom of this file
